@@ -1,4 +1,4 @@
-// °ÊºA°t¸m Linked List
+// Dynamic Memory Allocation Linked List
 
 # include <stdio.h>
 # include <stdlib.h>
